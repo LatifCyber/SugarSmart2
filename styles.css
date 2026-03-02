@@ -54,7 +54,7 @@ body.dark {
 }
 
 body {
-  font-family: 'Manospace', sans-serif;
+  font-family: 'serif', Georgia;
   background: #0a1628;
   display: flex;
   justify-content: center;
